@@ -37,4 +37,4 @@ int main()
 	window_close(window);
 	window_delete(window);
 	return 0;
-}
+}
